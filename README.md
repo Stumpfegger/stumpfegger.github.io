@@ -219,6 +219,14 @@ Ha kérdésed van vagy problémába ütközöl:
 
 **Megjegyzés**: Ez az alkalmazás **Ollama**-t használ, amely ingyenes és lokálisan fut. Nincs szükség internetkapcsolatra vagy API kulcsokra a mese generáláshoz!
 
+
+
+
+
+
+
+
+
 AI Storybook - Flutter App
 
 A children’s AI story generator application that creates unique stories locally with Ollama, without an internet connection!
@@ -490,5 +498,3 @@ Note: This application uses Ollama, which runs locally for free. No internet con
 ✅ Customizable: You can use any model you want
 
 
-- ✅ **Privát**: Nincs adatküldés harmadik feleknek
-- ✅ **Testreszabható**: Bármilyen modellt használhatsz
